@@ -55,7 +55,7 @@ The agent navigates a grid filled with obstacles and optional wormholes. Each te
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/CosmicWayfinder.git
+git clone https://github.com/Kejdi09/Cosmic-Wayfinder-Agent.git
 cd CosmicWayfinder
 ```
 2. Install dependencies:
